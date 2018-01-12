@@ -8,9 +8,14 @@ In this work, we present the results of this survey and draw conclusions for mod
 On this page, you can find the survey design and responses.
 
 
-1. Survey structure
-   - a
-   - b
-2. Survey responses
-   - a
-   - b
+* Survey structure
+  * [Survey structure data](Structure/SurveyStructure.lss)
+  * [Visual survey representation](Structure/SurveyVisual.zip)
+* Survey responses
+  * [Complete responses (Excel)](Responses/20170809_results-survey-complete.xls)
+  * [Complete responses (SPSS data file)](Responses/20170809_survey_155561_SPSS_data_file.dat)
+  * [Complete responses (SPSS syntax file)](Responses/20170809_survey_155561_SPSS_syntax_file.sps)
+  * [All responses (Excel, including incomplete ones)](Response/All_including_incomplete/20170809_results-survey-all.xls)
+  
+
+This survey was conducted by the SPEC Research Group on DevOps performance (https://research.spec.org/devopswg).
