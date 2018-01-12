@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Online appendix for the paper submission: How is Performance Addressed in DevOps? A Survey on Industrial Practices
+Testing and analyzing performance has challenged researchers and practitioners in classic environments for many years. 
+Now, with the increased popularity of the DevOps practices, handling performance has become even more challenging.
+As deploying every day, minute, or every couple of seconds is becoming the new normal, performance analysis is often left out, as the requirements for a holistic performance evaluation are hard to fulfill in fast and automated delivery pipelines. 
+In the past months, we questioned IT and DevOps experts and collected insights into their IT management focusing on performance of applications. 
+In this work, we present the results of this survey and draw conclusions for modern DevOps performance management,
 
-You can use the [editor on GitHub](https://github.com/corpaul/specrg_devops_survey/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+On this page, you can find the survey design and responses.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/corpaul/specrg_devops_survey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. Survey structure
+   - a
+   - b
+2. Survey responses
+   - a
+   - b
